@@ -13,7 +13,7 @@ https://github.com/thamaraRD/calculadora-app.git
 ```
 npm install
 ```
-## ¡Úsala! :white_check_mark:
+### ¡Úsala! :white_check_mark:
 ## Built with :nut_and_bolt:
 - **React**: Web Framework
 - **Node**: Server Environment
